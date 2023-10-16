@@ -70,7 +70,44 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+
+![Screenshot 2023-10-16 214652](https://github.com/Dharshan011/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497491/8668b9e2-bfb8-4c91-b327-640e5040c9b9)
+
+
+![Screenshot 2023-10-16 214700](https://github.com/Dharshan011/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497491/6795ee76-74c7-4f9d-baef-497dfa965684)
+
+
+![Screenshot 2023-10-16 214707](https://github.com/Dharshan011/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497491/74d269b0-6ab3-4a5b-a6f4-a87da18f29c2)
+
+![Screenshot 2023-10-16 214720](https://github.com/Dharshan011/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497491/fb178812-c7ac-418e-aec4-fc5190856ab5)
+
+
+![Screenshot 2023-10-16 214729](https://github.com/Dharshan011/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497491/8a725804-4e1d-4a1b-bd31-ded42390e8b8)
+
+
+
+![Screenshot 2023-10-16 214737](https://github.com/Dharshan011/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497491/d04edf5e-7604-45a3-925e-b799ecb91023)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Result:
